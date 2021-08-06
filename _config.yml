@@ -123,7 +123,7 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Linkedin"
-      icon: ""fab fa-linkedin-in"
+      icon: ""fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mohamed-hedi-elfkir-16598516a/"
     - label: "kaggle"
       icon :"fab fa-fw fa-kaggle"
