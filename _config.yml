@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Ankara,Turkey"
-  email            :
+  email            : "hedi-mohamed1@hotmail.fr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -122,11 +122,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: ""fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/mohamed-hedi-elfkir-16598516a/"
     - label: "kaggle"
-    - url :"https://www.kaggle.com/mohedi"
+      icon :"fab fa-fw fa-kaggle"
+      url :"https://www.kaggle.com/mohedi"
 
 # Site Footer
 footer:
