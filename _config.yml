@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hedi.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -106,6 +106,7 @@ author:
   bio              : "I am an **amazing** person."
   location         : "Ankara,Turkey"
   email            : "hedi-mohamed1@hotmail.fr"
+  Resume           : "/assets/Resume.pdf"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -128,9 +129,7 @@ author:
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
       url: "https://www.kaggle.com/mohedi"
-    - label: "Resume"
-      icon: "fas fa-fw fa-link"
-      url : "/hedi.github.io/assets/Resume.pdf"
+
 # Site Footer
 footer:
   links:
