@@ -130,7 +130,7 @@ author:
       url: "https://www.kaggle.com/mohedi"
     - label: "Resume"
       icon : "fas fa-fw fa-link"
-      href: "/assets/Resume.pdf/"
+      url: "/assets/Resume.pdf/"
 
 # Site Footer
 footer:
