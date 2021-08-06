@@ -123,8 +123,8 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label : "Linkedin"
-    - icon: "fab fa-fw fa-linkedin"
-    - url: "https://www.linkedin.com/in/mohamed-hedi-elfkir-16598516a/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mohamed-hedi-elfkir-16598516a/"
 # Site Footer
 footer:
   links:
