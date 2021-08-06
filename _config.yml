@@ -106,7 +106,6 @@ author:
   bio              : "I am an **amazing** person."
   location         : "Ankara,Turkey"
   email            : "hedi-mohamed1@hotmail.fr"
-  Resume           : "/assets/Resume.pdf"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -129,6 +128,9 @@ author:
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
       url: "https://www.kaggle.com/mohedi"
+    - label: "Resume"
+      icon : "fas fa-fw fa-link"
+      href: "/assets/Resume.pdf"
 
 # Site Footer
 footer:
