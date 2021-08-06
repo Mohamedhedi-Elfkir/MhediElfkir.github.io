@@ -128,9 +128,6 @@ author:
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
       url: "https://www.kaggle.com/mohedi"
-    - label: "Resume"
-      icon : "fas fa-fw fa-link"
-      url: "https://drive.google.com/file/d/19bvw07ZqknlffL_dndCCTxEiRNvY52Cb/view?usp=sharing/"
 
 # Site Footer
 footer:
