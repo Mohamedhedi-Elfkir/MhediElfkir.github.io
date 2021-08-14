@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Mohamed Hedi Elfkir"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -128,6 +128,9 @@ author:
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
       url: "https://www.kaggle.com/mohedi"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@mohamedhedifkir"
 
 # Site Footer
 footer:

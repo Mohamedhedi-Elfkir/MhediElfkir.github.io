@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /lorem-ipsum/
+    url: /About/
   - title: "Resume"
     url: assets/Resume.pdf
   # - title: "Sample Collections"
